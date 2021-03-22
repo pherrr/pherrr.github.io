@@ -2,107 +2,107 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Website of Fernanda Menezes</title>
-    <link>https://pherrr.github.io/tags/</link>
+    <link>https://fernandamenezes.com.br/tags/</link>
     <description>Recent content in Tags on Website of Fernanda Menezes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Mar 2021 21:47:41 +0000</lastBuildDate><atom:link href="https://pherrr.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Mar 2021 21:47:41 +0000</lastBuildDate><atom:link href="https://fernandamenezes.com.br/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>demo</title>
-      <link>https://pherrr.github.io/tags/demo/</link>
+      <link>https://fernandamenezes.com.br/tags/demo/</link>
       <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
       
-      <guid>https://pherrr.github.io/tags/demo/</guid>
+      <guid>https://fernandamenezes.com.br/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shortcode</title>
-      <link>https://pherrr.github.io/tags/shortcode/</link>
+      <link>https://fernandamenezes.com.br/tags/shortcode/</link>
       <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
       
-      <guid>https://pherrr.github.io/tags/shortcode/</guid>
+      <guid>https://fernandamenezes.com.br/tags/shortcode/</guid>
       <description></description>
     </item>
     
     <item>
       <title>css</title>
-      <link>https://pherrr.github.io/tags/css/</link>
+      <link>https://fernandamenezes.com.br/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pherrr.github.io/tags/css/</guid>
+      <guid>https://fernandamenezes.com.br/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>https://pherrr.github.io/tags/html/</link>
+      <link>https://fernandamenezes.com.br/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pherrr.github.io/tags/html/</guid>
+      <guid>https://fernandamenezes.com.br/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>https://pherrr.github.io/tags/markdown/</link>
+      <link>https://fernandamenezes.com.br/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pherrr.github.io/tags/markdown/</guid>
+      <guid>https://fernandamenezes.com.br/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>privacy</title>
-      <link>https://pherrr.github.io/tags/privacy/</link>
+      <link>https://fernandamenezes.com.br/tags/privacy/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pherrr.github.io/tags/privacy/</guid>
+      <guid>https://fernandamenezes.com.br/tags/privacy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shortcodes</title>
-      <link>https://pherrr.github.io/tags/shortcodes/</link>
+      <link>https://fernandamenezes.com.br/tags/shortcodes/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pherrr.github.io/tags/shortcodes/</guid>
+      <guid>https://fernandamenezes.com.br/tags/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>text</title>
-      <link>https://pherrr.github.io/tags/text/</link>
+      <link>https://fernandamenezes.com.br/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pherrr.github.io/tags/text/</guid>
+      <guid>https://fernandamenezes.com.br/tags/text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>emoji</title>
-      <link>https://pherrr.github.io/tags/emoji/</link>
+      <link>https://fernandamenezes.com.br/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pherrr.github.io/tags/emoji/</guid>
+      <guid>https://fernandamenezes.com.br/tags/emoji/</guid>
       <description></description>
     </item>
     
     <item>
       <title>thumbnail</title>
-      <link>https://pherrr.github.io/tags/thumbnail/</link>
+      <link>https://fernandamenezes.com.br/tags/thumbnail/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pherrr.github.io/tags/thumbnail/</guid>
+      <guid>https://fernandamenezes.com.br/tags/thumbnail/</guid>
       <description></description>
     </item>
     
     <item>
       <title>index</title>
-      <link>https://pherrr.github.io/tags/index/</link>
+      <link>https://fernandamenezes.com.br/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pherrr.github.io/tags/index/</guid>
+      <guid>https://fernandamenezes.com.br/tags/index/</guid>
       <description></description>
     </item>
     
